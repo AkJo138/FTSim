@@ -1,0 +1,15 @@
+Flight Traffic Controller
+
+You are an air traffic controller and you are monitoring airplanes. Being the programmer you are, you want to write a program that does your job for you. 
+
+Objective:
+Determine if planes are on a path of collision
+
+Input:
+The first line of the input file contains N, the number of airplane sets to process
+Each following line contains varying sets of 4 numbers. The first two numbers refer to the current position of the plane, the 3rd number refers to the speed of the plane in units per second, and the last number refers to the angle at which the plane is traveling at degrees.
+
+Input file example:
+5
+(1, 1, 3, 40) (2, -1, 4, 35) (3, -9, 5, 50)
+
